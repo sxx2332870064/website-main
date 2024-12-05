@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #2b2b2b;
+    background: #5b5b5b;
 }
 
 body a {
@@ -458,31 +458,31 @@ a.downarrow span {
 
 /* Background Gradient Styling */
 #multi-media {
-    background-color: #e2e2e2; /* Optional: Light gray background for contrast */
+    background-color: #bbbbbb; /* Optional: Light gray background for contrast */
     padding: 50px 0;
     text-align: center;
 }
 
 #animation {
-    background-color: #cccccc; /* White-gray background */
+    background-color: #999999; /* White-gray background */
     padding: 50px 0;
     transition: background-color 1s ease; /* Smooth transition effect */
 }
 
 #robotic {
-    background-color: #bcbcbc; /* Slightly darker than ANIMATION */
+    background-color: #6c6c6c; /* Slightly darker than ANIMATION */
     padding: 50px 0;
     transition: background-color 1s ease; /* Smooth transition effect */
 }
 
 #model {
-    background-color: #969696; /* Darker than ROBOTIC */
+    background-color: #505050; /* Darker than ROBOTIC */
     padding: 50px 0;
     transition: background-color 1s ease; /* Smooth transition effect */
 }
 
 #painting {
-    background-color: #878787; /* Darker than MODEL */
+    background-color: #444444; /* Darker than MODEL */
     padding: 50px 0;
     transition: background-color 1s ease; /* Smooth transition effect */
 }
