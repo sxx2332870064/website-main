@@ -457,6 +457,18 @@ a.downarrow span {
 }
 
 /* Background Gradient Styling */
+#fall-2025 {
+    background-color: #e9e9e9; /* Original background color */
+    padding: 50px 0;
+    transition: background-color 1s ease; /* Smooth transition effect */
+}
+
+#current-project {
+    background-color: #d6d6d6; /* Original background color */
+    padding: 50px 0;
+    transition: background-color 1s ease; /* Smooth transition effect */
+}
+
 #multi-media {
     background-color: #bbbbbb; /* Optional: Light gray background for contrast */
     padding: 50px 0;
@@ -487,11 +499,23 @@ a.downarrow span {
     transition: background-color 1s ease; /* Smooth transition effect */
 }
 
-#current-project {
-    background-color: #787878; /* Original background color */
+#photography {
+    background-color: #292929; /* Darker than MODEL */
     padding: 50px 0;
     transition: background-color 1s ease; /* Smooth transition effect */
 }
+
+#contact {
+    background-color: #0f0f0f; /* Darker than MODEL */
+    padding: 50px 0;
+    transition: background-color 1s ease; /* Smooth transition effect */
+}
+
+
+
+
+
+
 
 
 /* Back to Home Link */
